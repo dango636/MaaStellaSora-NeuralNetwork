@@ -6,6 +6,12 @@ MaaStellaSora 项目额外开发的神经网络数值模型插件。
 - `NeuralNetwork.cmd`：Windows 自解压安装包。
 - `build_installer.py`：从 `maa_value_plugin/` 重新生成安装包。
 
+## 训练与研究资料
+
+潜能与音符状态空间、规则数据、实机分析、训练器源码及初始权重维护在 [StellaSora-Tower-Research](https://github.com/dango636/StellaSora-Tower-Research)。
+
+规范化实机总数据见研究仓库的 [Releases](https://github.com/dango636/StellaSora-Tower-Research/releases/tag/real-game-data)。
+
 ## 安装
 
 将 `NeuralNetwork.cmd` 放到 `MFAAvalonia.exe` 所在目录，并确保该目录下有官方 Maa 安装包提供的 `python/python.exe`，然后双击运行。

@@ -1,4 +1,10 @@
-# MaaStellaSora NeuralNetwork 插件
+# MaaStellaSora NeuralNetwork 插件（停止维护）
+
+本仓库停止维护并归档，保留历史源码、安装器及 PR 讨论。
+
+神经网络爬塔、模型接入和实机数据采集已转入 [MaaStellaSora](https://github.com/MaaStellaSora/MaaStellaSora) 的原生开发分支，目前正在实测和合并准备。状态空间、训练器与实机研究资料维护在 [StellaSora-Tower-Research](https://github.com/dango636/StellaSora-Tower-Research)。
+
+以下内容为历史插件的使用说明。
 
 MaaStellaSora 项目额外开发的神经网络数值模型插件。
 

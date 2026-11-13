@@ -32,6 +32,12 @@ python3 build_installer.py
 
 公开版本的 `maa_value_plugin/upload_settings.json` 不包含上传令牌。需要使用数据上传功能时，请在本地配置令牌，不要提交到仓库。
 
+## 离线联合模型研究
+
+[`research/concerto_joint/`](research/concerto_joint/README.md) 当前进行音符规则对齐和真实转移数据准备，没有活动联合检查点，暂停进一步联合训练。
+
+v2/v3/v4权重与模拟结果只保留为历史研究证据。已根据协作者新资料修正事件、菜单、大包和阶段供给，并增加采集格式、质量检查及完整联合训练合同；详见 [本轮对齐](research/concerto_joint/ALIGNMENT_20261108.md)。原潜能内核、教师和插件默认运行时未修改。
+
 ## 许可
 
 第三方许可和来源说明见 `maa_value_plugin/licenses.json` 与 `maa_value_plugin/critic/vendor/SOURCE.json`。
